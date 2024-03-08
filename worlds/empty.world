@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<sdf version="1.5">
+  <world name="default">
+    <!-- A global light source -->
+    <include>
+      <uri>model://sun</uri>
+    </include>
+    <!-- A ground plane -->
+    <include>
+      <uri>model://ground_plane</uri>
+    </include>
+  </world>
+</sdf>
+https://colab.research.google.com/drive/10_LF6qfqV7UBzgjwqQCNASI_ApYHKJgM?usp=sharing&fbclid=IwAR3RwpeM-dp97UYqHrb86IdDYPeFibsTG-nR-aDs8jepYr8hPs964sI8FzQ#scrollTo=y-iV2Jw-TvFV
